@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 def new_hash 
   new_hash = {}
+=======
+def new_hash {
+  
+}
+>>>>>>> 6ee0f11e764da6f8b0dc0b071eae6b94bc88367d
 
 end
 
